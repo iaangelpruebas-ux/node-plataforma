@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Ruta principal
 app.get('/', (req, res) => {
-  res.send('Servidor Node.js funcionando correctamente 😎 WOWOWO');
+  res.send('Servidor Node.js funcionando correctamente 😎 mira esto es lo que modifique desde la laptop asus amigo');
 });
 
 // Ruta de prueba tipo API
